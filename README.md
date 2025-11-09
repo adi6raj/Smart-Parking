@@ -101,13 +101,13 @@ Secure login for admin access.
 git clone https://github.com/yourusername/smart-parking-system.git
 cd smart-parking-system
 
-# 📬 Email Notifications Example
+### 📬 Email Notifications Example
 Vehicle Parking Confirmation
 Exit Invoice with Attached PDF & Snapshot
 Daily Report Notification
 Emails are formatted in HTML with smart styling and a link to the parking location.
 
-# 👨‍💻 Author
+### 👨‍💻 Author
  Adi
 🎓 Student Developer | Python Enthusiast
 📧 hey.adiii0@gmail.com
