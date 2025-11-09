@@ -98,7 +98,7 @@ Secure login for admin access.
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/yourusername/smart-parking-system.git
+git clone https://github.com/adi6raj/Smart-Parking.git
 cd smart-parking-system
 
 ### 📬 Email Notifications Example
