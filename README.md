@@ -1,4 +1,4 @@
-#🚗 Smart Parking System
+🚗 #Smart Parking System
 📘 Project Overview
 
 The Smart Parking System is a Python-based desktop application that helps automate the process of vehicle parking management.
