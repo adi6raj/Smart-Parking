@@ -97,10 +97,10 @@ Secure login for admin access.
 ## 🧰 Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-
+```bash
 git clone https://github.com/adi6raj/Smart-Parking.git
 cd smart-parking-system
-
+```
 ### 📬 Email Notifications Example
 Vehicle Parking Confirmation
 Exit Invoice with Attached PDF & Snapshot
