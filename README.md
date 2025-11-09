@@ -97,7 +97,7 @@ Secure login for admin access.
 ## 🧰 Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-```bash
+
 git clone https://github.com/yourusername/smart-parking-system.git
 cd smart-parking-system
 
